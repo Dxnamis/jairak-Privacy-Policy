@@ -21,6 +21,7 @@
 
 4. **User ID / ชื่อผู้ใช้**
    จัดเก็บเฉพาะกรณีที่เป็นผู้ใช้ Premium หรืออยู่ในระบบ Blacklist เพื่อความปลอดภัยและการจัดการสิทธิ์
+5. ** premium key (ถ้ามี)**
 
 ### การใช้ข้อมูล
 
@@ -65,7 +66,7 @@ Our bot may collect data necessary for its operation, as follows:
 
 4. **User ID / Username**
    Stored only if you are a Premium user or are placed on the blacklist for security and moderation purposes.
-
+5. ** premium key ( if you have )**
 ### How We Use Data
 
 All collected data is used solely for operating the bot, providing requested features, and saving user/server settings.
